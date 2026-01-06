@@ -1,0 +1,295 @@
+{
+  "matches":[ {
+    "match": {
+      "matchInfo": {
+
+        "matchId":126493,
+        "seriesId":10394,
+        "seriesName":"SA20, 2025-26",
+        "matchDesc":"15th Match",
+        "matchFormat":"T20",
+        "startDate":1767713400000,
+        "endDate":1767724200000,
+        "state":"In Progress",
+        "status":"MI Cape Town opt to bowl",
+        "team1": {
+          "teamId": 1249, "teamName":"Joburg Super Kings", "teamSName":"JSK", "imageId":248422
+        }
+
+        ,
+        "team2": {
+          "teamId": 1228, "teamName":"MI Cape Town", "teamSName":"MICT", "imageId":248432
+        }
+
+        ,
+        "venueInfo": {
+          "id": 52, "ground":"Newlands", "city":"Cape Town", "timezone":"+02:00"
+        }
+
+        ,
+        "currBatTeamId":1249,
+        "isTournament":true,
+        "seriesStartDt":1766620800000,
+        "seriesEndDt":1769385600000,
+        "isTimeAnnounced":true,
+        "stateTitle":"In Progress",
+        "livestreamEnabled":true,
+        "matchType":"league",
+        "shortStatus":"MICT opt to bowl",
+        "matchImageId":816926,
+        "isForecastEnabled":true
+      }
+
+      ,
+      "matchScore": {
+        "team1Score": {
+          "inngs1": {
+            "inningsId": 1, "runs":14, "overs":1.3
+          }
+        }
+      }
+    }
+  }
+
+  ,
+  {
+  "match": {
+    "matchInfo": {
+
+      "matchId":108811,
+      "seriesId":9107,
+      "seriesName":"The Ashes, 2025-26",
+      "matchDesc":"5th Test",
+      "matchFormat":"TEST",
+      "startDate":1767483000000,
+      "endDate":1767853800000,
+      "state":"Stumps",
+      "status":"Day 3: Stumps - Australia lead by 134 runs",
+      "team1": {
+        "teamId": 9, "teamName":"England", "teamSName":"ENG", "imageId":776237
+      }
+
+      ,
+      "team2": {
+        "teamId": 4, "teamName":"Australia", "teamSName":"AUS", "imageId":776202
+      }
+
+      ,
+      "venueInfo": {
+        "id": 34, "ground":"Sydney Cricket Ground", "city":"Sydney", "timezone":"+11:00"
+      }
+
+      ,
+      "currBatTeamId":4,
+      "seriesStartDt":1763596800000,
+      "seriesEndDt":1767916800000,
+      "isTimeAnnounced":true,
+      "stateTitle":"Stumps",
+      "livestreamEnabled":true,
+      "matchType":"International",
+      "shortStatus":"Stump",
+      "matchImageId":817508
+    }
+
+    ,
+    "matchScore": {
+      "team1Score": {
+        "inngs1": {
+          "inningsId": 1, "runs":384, "wickets":10, "overs":97.3
+        }
+      }
+
+      ,
+      "team2Score": {
+        "inngs1": {
+          "inningsId": 2, "runs":518, "wickets":7, "overs":123.6
+        }
+      }
+    }
+  }
+}
+
+,
+{
+"match": {
+  "matchInfo": {
+
+    "matchId":140160,
+    "seriesId":11317,
+    "seriesName":"Pakistan tour of Sri Lanka, 2026",
+    "matchDesc":"1st T20I",
+    "matchFormat":"T20",
+    "startDate":1767792600000,
+    "endDate":1767803400000,
+    "state":"Preview",
+    "status":"Match starts at Jan 07, 13:30 GMT",
+    "team1": {
+      "teamId": 5, "teamName":"Sri Lanka", "teamSName":"SL", "imageId":776254
+    }
+
+    ,
+    "team2": {
+      "teamId": 3, "teamName":"Pakistan", "teamSName":"PAK", "imageId":776308
+    }
+
+    ,
+    "venueInfo": {
+      "id": 13, "ground":"Rangiri Dambulla International Stadium", "city":"Dambulla", "timezone":"+05:30"
+    }
+
+    ,
+    "seriesStartDt":1767657600000,
+    "seriesEndDt":1768176000000,
+    "isTimeAnnounced":true,
+    "stateTitle":"Preview",
+    "matchType":"International",
+    "shortStatus":"Jan 07, 13:30 GMT",
+    "matchImageId":818027
+  }
+}
+}
+
+,
+{
+"match": {
+  "matchInfo": {
+
+    "matchId":140149,
+    "seriesId":11306,
+    "seriesName":"India Under-19 tour of South Africa, 2026",
+    "matchDesc":"3rd Youth ODI",
+    "matchFormat":"ODI",
+    "startDate":1767771000000,
+    "endDate":1767796200000,
+    "state":"Preview",
+    "status":"Match starts at Jan 07, 07:30 GMT",
+    "team1": {
+      "teamId": 57, "teamName":"South Africa U19", "teamSName":"RSAU19", "imageId":776292
+    }
+
+    ,
+    "team2": {
+      "teamId": 54, "teamName":"India U19", "teamSName":"INDU19", "imageId":776180
+    }
+
+    ,
+    "venueInfo": {
+      "id": 135, "ground":"Willowmoore Park", "city":"Benoni", "timezone":"+02:00"
+    }
+
+    ,
+    "seriesStartDt":1767312000000,
+    "seriesEndDt":1767830400000,
+    "isTimeAnnounced":true,
+    "stateTitle":"Preview",
+    "matchType":"domestic",
+    "shortStatus":"Jan 07, 07:30 GMT",
+    "matchImageId":816935
+  }
+}
+}
+
+,
+{
+"match": {
+  "matchInfo": {
+
+    "matchId":123298,
+    "seriesId":10289,
+    "seriesName":"Big Bash League 2025-26",
+    "matchDesc":"26th Match",
+    "matchFormat":"T20",
+    "startDate":1767773700000,
+    "endDate":1767784500000,
+    "state":"Preview",
+    "status":"Match starts at Jan 07, 08:15 GMT",
+    "team1": {
+      "teamId": 197, "teamName":"Perth Scorchers", "teamSName":"PRS", "imageId":172257
+    }
+
+    ,
+    "team2": {
+      "teamId": 195, "teamName":"Melbourne Renegades", "teamSName":"MLR", "imageId":172255
+    }
+
+    ,
+    "venueInfo": {
+      "id": 512, "ground":"Perth Stadium", "city":"Perth", "timezone":"+08:00"
+    }
+
+    ,
+    "isTournament":true,
+    "seriesStartDt":1765584000000,
+    "seriesEndDt":1769385600000,
+    "isTimeAnnounced":true,
+    "stateTitle":"Preview",
+    "matchType":"league",
+    "shortStatus":"Jan 07, 08:15 GMT",
+    "matchImageId":815143
+  }
+}
+}
+
+,
+{
+"match": {
+  "matchInfo": {
+
+    "matchId":123287,
+    "seriesId":10289,
+    "seriesName":"Big Bash League 2025-26",
+    "matchDesc":"25th Match",
+    "matchFormat":"T20",
+    "startDate":1767687300000,
+    "endDate":1767699394215,
+    "state":"Complete",
+    "status":"Adelaide Strikers won by 6 runs",
+    "team1": {
+      "teamId": 199, "teamName":"Adelaide Strikers", "teamSName":"ADS", "imageId":172259
+    }
+
+    ,
+    "team2": {
+      "teamId": 192, "teamName":"Sydney Thunder", "teamSName":"SYT", "imageId":172252
+    }
+
+    ,
+    "venueInfo": {
+      "id": 40, "ground":"Adelaide Oval", "city":"Adelaide", "timezone":"+10:30"
+    }
+
+    ,
+    "currBatTeamId":199,
+    "isTournament":true,
+    "seriesStartDt":1765584000000,
+    "seriesEndDt":1769385600000,
+    "isTimeAnnounced":true,
+    "stateTitle":"ADS won",
+    "livestreamEnabled":true,
+    "matchType":"league",
+    "shortStatus":"ADS won",
+    "matchImageId":815142
+  }
+
+  ,
+  "matchScore": {
+    "team1Score": {
+      "inngs1": {
+        "inningsId": 1, "runs":165, "wickets":8, "overs":19.6
+      }
+    }
+
+    ,
+    "team2Score": {
+      "inngs1": {
+        "inningsId": 2, "runs":159, "wickets":7, "overs":19.6
+      }
+    }
+  }
+}
+}
+
+],
+"responseLastUpdated":1767717941731,
+"matchCarouselImageLayout":true
+}
